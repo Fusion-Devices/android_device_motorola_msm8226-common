@@ -61,7 +61,7 @@ TARGET_FUSION_ROM := 4.9
 TARGET_FUSION_KERNEL := 4.9-sm
 
 # TWRP
-DEVICE_RESOLUTION := 1280x720
+DEVICE_RESOLUTION := 720x1280
 
 # SaberMod
 -include vendor/fusion/config/sm.mk
